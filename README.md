@@ -292,20 +292,20 @@ This is a shorter list than what I used. This is abbreviated to save you time.
 
 ### Interview Prep
 
-- [ ] [Programming Interviews Exposed: Coding Your Way Through the Interview, 4th Edition](https://www.amazon.com/Programming-Interviews-Exposed-Through-Interview/dp/111941847X/)
+- [x] [Programming Interviews Exposed: Coding Your Way Through the Interview, 4th Edition](https://www.amazon.com/Programming-Interviews-Exposed-Through-Interview/dp/111941847X/)
     - answers in C++ and Java
     - this is a good warm-up for Cracking the Coding Interview
     - not too difficult, most problems may be easier than what you'll see in an interview (from what I've read)
-- [ ] [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
+- [x] [Cracking the Coding Interview, 6th Edition](http://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/)
     - answers in Java
 
 ### If you have tons of extra time:
 
 Choose one:
 
-- [ ] [Elements of Programming Interviews (C++ version)](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836)
-- [ ] [Elements of Programming Interviews in Python](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949/)
-- [ ] Elements of Programming Interviews (Java version)
+- [x] [Elements of Programming Interviews (C++ version)](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836)
+- [x] [Elements of Programming Interviews in Python](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949/)
+- [x] Elements of Programming Interviews (Java version)
     - [book](https://www.amazon.com/Elements-Programming-Interviews-Java-Insiders/dp/1517435803/)
     - [Companion Project - Method Stub and Test Cases for Every Problem in the Book](https://github.com/gardncl/elements-of-programming-interviews)
 
@@ -324,28 +324,28 @@ If you read through one of these, you should have all the data structures and al
 
 I haven't read these two, but they are highly rated and written by Sedgewick. He's awesome.
 
-- [ ] [Algorithms in C++, Parts 1-4: Fundamentals, Data Structure, Sorting, Searching](https://www.amazon.com/Algorithms-Parts-1-4-Fundamentals-Structure/dp/0201350882/)
-- [ ] [Algorithms in C++ Part 5: Graph Algorithms](https://www.amazon.com/Algorithms-Part-Graph-3rd-Pt-5/dp/0201361183/)
+- [x] [Algorithms in C++, Parts 1-4: Fundamentals, Data Structure, Sorting, Searching](https://www.amazon.com/Algorithms-Parts-1-4-Fundamentals-Structure/dp/0201350882/)
+- [x] [Algorithms in C++ Part 5: Graph Algorithms](https://www.amazon.com/Algorithms-Part-Graph-3rd-Pt-5/dp/0201361183/)
 
 If you have a better recommendation for C++, please let me know. Looking for a comprehensive resource.
 
 ### Java
 
-- [ ] [Algorithms (Sedgewick and Wayne)](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/)
+- [x] [Algorithms (Sedgewick and Wayne)](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/)
     - videos with book content (and Sedgewick!) on coursera:
         - [Algorithms I](https://www.coursera.org/learn/algorithms-part1)
         - [Algorithms II](https://www.coursera.org/learn/algorithms-part2)
 
 OR:
 
-- [ ] [Data Structures and Algorithms in Java](https://www.amazon.com/Data-Structures-Algorithms-Michael-Goodrich/dp/1118771338/)
+- [x] [Data Structures and Algorithms in Java](https://www.amazon.com/Data-Structures-Algorithms-Michael-Goodrich/dp/1118771338/)
     - by Goodrich, Tamassia, Goldwasser
     - used as optional text for CS intro course at UC Berkeley
     - see my book report on the Python version below. This book covers the same topics.
 
 ### Python
 
-- [ ] [Data Structures and Algorithms in Python](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/)
+- [x] [Data Structures and Algorithms in Python](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/)
     - by Goodrich, Tamassia, Goldwasser
     - I loved this book. It covered everything and more.
     - Pythonic code
@@ -453,19 +453,19 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 
 ## Prerequisite Knowledge
 
-- [ ] **Learn C**
+- [x] **Learn C**
     - C is everywhere. You'll see examples in books, lectures, videos, *everywhere* while you're studying.
-    - [ ] [C Programming Language, Vol 2](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628)
+    - [x] [C Programming Language, Vol 2](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628)
         - This is a short book, but it will give you a great handle on the C language and if you practice it a little
             you'll quickly get proficient. Understanding C helps you understand how programs and memory work.
         - [answers to questions](https://github.com/lekkas/c-algorithms)
 
-- [ ] **How computers process a program:**
-    - [ ] [How CPU executes a program (video)](https://www.youtube.com/watch?v=XM4lGflQFvA)
-    - [ ] [How computers calculate - ALU (video)](https://youtu.be/1I5ZMmrOfnA)
-    - [ ] [Registers and RAM (video)](https://youtu.be/fpnE6UAfbtU)
-    - [ ] [The Central Processing Unit (CPU) (video)](https://youtu.be/FZGugFqdr60)
-    - [ ] [Instructions and Programs (video)](https://youtu.be/zltgXvg6r3k)
+- [x] **How computers process a program:**
+    - [x] [How CPU executes a program (video)](https://www.youtube.com/watch?v=XM4lGflQFvA)
+    - [x] [How computers calculate - ALU (video)](https://youtu.be/1I5ZMmrOfnA)
+    - [x] [Registers and RAM (video)](https://youtu.be/fpnE6UAfbtU)
+    - [x] [The Central Processing Unit (CPU) (video)](https://youtu.be/FZGugFqdr60)
+    - [x] [Instructions and Programs (video)](https://youtu.be/zltgXvg6r3k)
 
 ## Algorithmic complexity / Big-O / Asymptotic analysis
 
